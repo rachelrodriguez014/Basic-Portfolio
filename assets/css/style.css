@@ -1,0 +1,38 @@
+.header {
+    height: 80px;
+    border-color: #777777;
+}
+
+
+#name {
+    float: left;
+    background-color: #4aaaa5;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    color: #ffffff;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 220px
+}
+
+#navBar {
+    float: right;
+    margin-top: 30px;
+    margin-right: 200px;
+}
+
+.nav {
+    padding: 30px;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777777
+}
+
+#content {
+    height: 650px;
+    background-image: url("background.png");
+}
+
+#aboutMe {
+    width: 960px;
+    height: 500px;
+    background-color: #ffffff;
+}
